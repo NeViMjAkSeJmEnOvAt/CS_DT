@@ -10,3 +10,7 @@ v01 je prvni stranka hry
 v02 je druha stranka hry
 bossfight je posledni level hry
 win je stranka ktera se zobrazi po vyhrani bossfightu
+
+/////////////////
+popis funkci je pouze v js.js
+popis funkci je take v bossfight.js, pouze ty funkce ktere nejsou v js.js
